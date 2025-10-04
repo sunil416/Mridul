@@ -1,0 +1,5 @@
+llama_index==0.13.3
+PyPDF2==3.0.1
+python_docx==1.2.0
+python_pptx==1.0.2
+streamlit==1.49.0

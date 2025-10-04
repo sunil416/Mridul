@@ -1,0 +1,9 @@
+./querygen/.env
+./demotesting/.env
+./eshopchatbot/.env
+./electricalchatbot/.env
+./healthbot/.env
+./.env
+./languageai/.env
+
+./RAG/Configs/LLM.py

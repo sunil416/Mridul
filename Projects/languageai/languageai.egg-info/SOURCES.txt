@@ -1,0 +1,5 @@
+setup.py
+languageai.egg-info/PKG-INFO
+languageai.egg-info/SOURCES.txt
+languageai.egg-info/dependency_links.txt
+languageai.egg-info/top_level.txt

@@ -1,0 +1,41 @@
+astrapy
+google.generativeai
+sentence_transformers
+llama-index-readers-file
+# Core dependencies
+lancedb
+moviepy
+pytube
+pydub
+torch
+torchvision
+torchaudio
+SpeechRecognition
+ffmpeg-python
+soundfile
+matplotlib
+scikit-image
+ftfy
+regex
+tqdm
+
+# LlamaIndex and related plugins
+llama-index
+llama-index-embeddings-clip
+llama-index-readers-file
+llama-index-vector-stores-astra
+
+# LangChain integration
+langchain
+
+# Astra DB (Vector DB)
+cassio
+cassandra-driver
+
+# Embedding models
+sentence-transformers
+openai
+transformers
+
+# Optional: if using CLIP from GitHub
+git+https://github.com/openai/CLIP.git
